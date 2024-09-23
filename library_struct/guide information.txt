@@ -1,0 +1,19 @@
+/*
+the program is library has users
+ever user has his books alone (he can add,delete,edit,view...)
+users can not have same username
+users can  have same password
+*/
+//book id can not repeated in same account
+/*
+login-->if you have account already
+sign in--> create a new account
+delete account-->delete every think in user's library(all book inserted in this account and username )
+*/
+/*
+sorting
+(1)time sorting(first in first out).
+(2)inverse time sorting(first in last out).
+(3)id sorting.---->(string)
+(4)book name sorting.
+*/

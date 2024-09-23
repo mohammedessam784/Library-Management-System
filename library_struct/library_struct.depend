@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1724079334 source:f:\mohammed essam\sim;colon\projects\library_struct\main_struct.c
+	<stdio.h>
+	<string.h>
+	"std_types.h"
+	"book_struct.h"
+	"safety_struct.h"
+	"nodes.h"
+	"sorting.h"
+
+1723649797 f:\mohammed essam\sim;colon\projects\library_struct\std_types.h
+
+1723951277 f:\mohammed essam\sim;colon\projects\library_struct\book_struct.h
+
+1723940461 f:\mohammed essam\sim;colon\projects\library_struct\safety_struct.h
+
+1724080231 source:f:\mohammed essam\sim;colon\projects\library_struct\safety_struct.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+
+1724080234 source:f:\mohammed essam\sim;colon\projects\library_struct\book_struct.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+	"sorting.h"
+
+1723935631 f:\mohammed essam\sim;colon\projects\library_struct\nodes.h
+
+1724080374 source:f:\mohammed essam\sim;colon\projects\library_struct\nodes.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+
+1724080706 source:f:\mohammed essam\sim;colon\projects\library_struct\sorting.c
+	"std_types.h"
+	"book_struct.h"
+	"safety_struct.h"
+	"nodes.h"
+
+1724076899 f:\mohammed essam\sim;colon\projects\library_struct\sorting.h
+
+1724246480 source:f:\mohammed essam\sim;colon\embedded c\projects\library_struct\main_struct.c
+	<stdio.h>
+	<string.h>
+	"std_types.h"
+	"book_struct.h"
+	"safety_struct.h"
+	"nodes.h"
+	"sorting.h"
+
+1723649797 f:\mohammed essam\sim;colon\embedded c\projects\library_struct\std_types.h
+
+1723951277 f:\mohammed essam\sim;colon\embedded c\projects\library_struct\book_struct.h
+
+1723940461 f:\mohammed essam\sim;colon\embedded c\projects\library_struct\safety_struct.h
+
+1723935631 f:\mohammed essam\sim;colon\embedded c\projects\library_struct\nodes.h
+
+1724076899 f:\mohammed essam\sim;colon\embedded c\projects\library_struct\sorting.h
+
+1724080374 source:f:\mohammed essam\sim;colon\embedded c\projects\library_struct\nodes.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+
+1724246337 source:f:\mohammed essam\sim;colon\embedded c\projects\library_struct\safety_struct.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+
+1724243499 source:f:\mohammed essam\sim;colon\embedded c\projects\library_struct\book_struct.c
+	"std_types.h"
+	"safety_struct.h"
+	"book_struct.h"
+	"nodes.h"
+	"sorting.h"
+
+1724243499 source:f:\mohammed essam\sim;colon\embedded c\projects\library_struct\sorting.c
+	"std_types.h"
+	"book_struct.h"
+	"safety_struct.h"
+	"nodes.h"
+
